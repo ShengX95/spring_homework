@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad3c1534-1364-4dc9-b93f-ad2bf69016af" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/programing/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\programing\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YU5UzsJvSopGNWnIGGRcqDrMOn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-framework-master/build.gradle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sx.utils" />
+      <recent name="com.sx.context" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDemo.test4">
+    <configuration name="HQScanPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sx.utils.HQScanPackage" />
+      <module name="myspring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sx.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myspring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sx.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sx" />
+      <option name="MAIN_CLASS_NAME" value="com.sx.TestDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myspring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sx" />
+      <option name="MAIN_CLASS_NAME" value="com.sx.TestDemo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myspring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sx" />
+      <option name="MAIN_CLASS_NAME" value="com.sx.TestDemo" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myspring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sx" />
+      <option name="MAIN_CLASS_NAME" value="com.sx.TestDemo" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HQScanPackage" />
+      <item itemvalue="JUnit.TestDemo.test" />
+      <item itemvalue="JUnit.TestDemo.test2" />
+      <item itemvalue="JUnit.TestDemo.test3" />
+      <item itemvalue="JUnit.TestDemo.test4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDemo.test4" />
+        <item itemvalue="JUnit.TestDemo.test2" />
+        <item itemvalue="JUnit.TestDemo.test3" />
+        <item itemvalue="Application.HQScanPackage" />
+        <item itemvalue="JUnit.TestDemo.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator.DESKTOP-MG8MU0N\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad3c1534-1364-4dc9-b93f-ad2bf69016af" name="Default" comment="" />
+      <created>1582856376773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582856376773</updated>
+      <workItem from="1582856384041" duration="6887000" />
+      <workItem from="1582971992557" duration="2305000" />
+      <workItem from="1582984357463" duration="774000" />
+      <workItem from="1583056562863" duration="7286000" />
+      <workItem from="1583131795448" duration="15126000" />
+      <workItem from="1583157684990" duration="4091000" />
+      <workItem from="1583198720467" duration="33910000" />
+      <workItem from="1583285351699" duration="213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2785" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1583243209602">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="865" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583227051012" />
+    <state x="2785" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583243209602" />
+    <state x="739" y="378" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583219959242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="378" width="441" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583219959242" />
+    <state x="851" y="273" key="#xdebugger.XInspectDialog" timestamp="1583202048169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="851" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583202048169" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582984607010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582984607010" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1583244721693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583244721693" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583243528489" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1583244721692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583244721692" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583243528489" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1583244721692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583244721692" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583243528489" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1583244721692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583244721692" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583243528489" />
+    <state width="1877" height="237" key="GridCell.Tab.1.bottom" timestamp="1583239987923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583219621180" />
+    <state width="1877" height="237" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583239987923" />
+    <state width="1877" height="237" key="GridCell.Tab.1.center" timestamp="1583239987923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583219621180" />
+    <state width="1877" height="237" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583239987923" />
+    <state width="1877" height="237" key="GridCell.Tab.1.left" timestamp="1583239987923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583219621180" />
+    <state width="1877" height="237" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583239987923" />
+    <state width="1877" height="237" key="GridCell.Tab.1.right" timestamp="1583239987923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583219621180" />
+    <state width="1877" height="237" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583239987923" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583285377600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583285377600" />
+    <state x="1942" y="3" width="1493" height="826" key="dock-window-1" timestamp="1583224856303">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1942" y="3" width="1493" height="826" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583224856303" />
+    <state x="690" y="284" key="extract.method.dialog" timestamp="1583217610333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="284" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583217610333" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583239137567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583239137567" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<beans>
+    <bean id="userService" class="com.sx.service.UserServiceImpl">
+        <property name="UserDao" ref="userDao"></property>
+    </bean>
+    <bean id="userDao" class="com.sx.dao.UserDaoImpl"></bean>
+
+<!--    <bean id="transferDao" class="com.sx.dao.TransferDaoImpl"></bean>-->
+
+<!--    <bean id="transferService" class="com.sx.service.TransferServiceImpl">-->
+<!--        <property name="TransferDao" ref="transferDao"></property>-->
+<!--    </bean>-->
+
+    <component-scan base-package="com.sx"/>
+</beans>
